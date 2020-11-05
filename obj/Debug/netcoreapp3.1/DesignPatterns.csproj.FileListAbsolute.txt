@@ -1,0 +1,13 @@
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\NovoG\Dev\source\CursoDesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
